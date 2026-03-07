@@ -1,0 +1,9 @@
+playwright
+beautifulsoup4
+markdownify
+pypdf
+sentence-transformers
+streamlit
+pillow
+pytest
+pandas

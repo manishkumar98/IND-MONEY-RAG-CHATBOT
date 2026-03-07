@@ -8,7 +8,15 @@ class MFIndexer:
         self.processed_dir = processed_dir
         self.db_path = db_path
         # Using a local, high-quality embedding function
-        self.embed_fn = embedding_functions.DefaultEmbeddingFunction()
+        # Using a light-weight API-based embedding function for Vercel (avoids 7GB download)
+        if os.environ.get("OPENAI_API_KEY"):
+            self.embed_fn = embedding_functions.OpenAIEmbeddingFunction(
+                api_key=os.environ.get("OPENAI_API_KEY"),
+                model_name="text-embedding-3-small"
+            )
+        else:
+            # Fallback to default (might still pull but we prioritize OpenAI for 500MB limit)
+            self.embed_fn = embedding_functions.DefaultEmbeddingFunction()
         
         self.client = chromadb.PersistentClient(path=self.db_path)
         self.collection = self.client.get_or_create_collection(
