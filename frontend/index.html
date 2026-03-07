@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SBI Mutual Fund Assistant | INDmoney Style</title>
+    <!-- Google Fonts: Outfit -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo-container">
+            <img src="https://www.sbimf.com/Content/Images/logo.svg" alt="SBI Mutual Fund" class="logo">
+            <p class="tagline">Official Factual Assistant</p>
+        </div>
+        <div class="nav-links">
+            <div class="compliance-box">
+                <h4>Compliance</h4>
+                <p>Facts-only. No advice.</p>
+                <p>PII Protection Active.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <header>
+            <h1>SBI Mutual Fund Assistant <span class="badge">PRO</span></h1>
+            <p class="subtitle">Ask specific fund details (Expense, Return, Benchmarks)</p>
+        </header>
+
+        <div id="chat-container" class="chat-container">
+            <div class="chat-bubble ai-bubble">
+                <div class="bubble-content">
+                    <p>Welcome! I am your factual SBI Mutual Fund Assistant. I combine information from official SBI MF docs and INDmoney factsheets to give you the most accurate data.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <div class="suggestions">
+                <button onclick="sendSuggestion('What is the 3 year return of SBI Flexicap?')">SBI Flexicap Return</button>
+                <button onclick="sendSuggestion('What is the risk level of SBI Small Cap?')">Small Cap Risk</button>
+                <button onclick="sendSuggestion('Benchmark for SBI Large Cap?')">Bluechip Benchmark</button>
+            </div>
+            <div class="input-container">
+                <input type="text" id="user-input" placeholder="Ask anything about SBI mutual funds..." onkeypress="handleEnter(event)">
+                <button id="send-btn" onclick="sendMessage()">Send</button>
+            </div>
+            <p class="disclaimer">Facts-only. No investment advice.</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
