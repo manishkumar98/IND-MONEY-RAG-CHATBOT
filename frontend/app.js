@@ -1,5 +1,4 @@
-// Dynamic Backend Configuration
-const BACKEND_URL = "https://your-streamlit-backend.streamlit.app"; // Placeholder for Streamlit Cloud URL
+const BACKEND_URL = "https://ind-money-rag-chatbot-36vp6kfeeuuesdzeprzetn.streamlit.app";
 
 const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');
@@ -7,7 +6,7 @@ const userInput = document.getElementById('user-input');
 function appendMessage(role, content) {
     const bubble = document.createElement('div');
     bubble.className = `chat-bubble ${role === 'user' ? 'user-bubble' : 'ai-bubble'}`;
-    
+
     // Convert source links from answer into clickable links if role is AI
     let processedContent = content;
     if (role === 'ai') {
@@ -17,7 +16,7 @@ function appendMessage(role, content) {
     } else {
         bubble.textContent = processedContent;
     }
-    
+
     chatContainer.appendChild(bubble);
     chatContainer.scrollTop = chatContainer.scrollHeight;
 }
@@ -46,7 +45,7 @@ async function sendMessage() {
         });
 
         const data = await response.json();
-        
+
         // Remove loading state and show answer
         chatContainer.removeChild(loadingBubble);
         appendMessage('ai', data.answer);
