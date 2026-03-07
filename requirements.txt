@@ -6,3 +6,4 @@ requests
 pydantic
 chromadb
 openai
+streamlit
