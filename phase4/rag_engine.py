@@ -12,9 +12,17 @@ from src.rag.prompts import SYSTEM_PROMPT
 class RAGEngine:
     def __init__(self):
         load_dotenv()
+        # Fallback to Streamlit secrets if not in environment
         api_key = os.environ.get("GROQ_API_KEY")
         if not api_key:
-            raise ValueError("GROQ_API_KEY not found in environment variables.")
+            try:
+                import streamlit as st
+                api_key = st.secrets.get("GROQ_API_KEY")
+            except ImportError:
+                pass
+        
+        if not api_key:
+            raise ValueError("GROQ_API_KEY not found. Please set it in .env or Streamlit Secrets.")
         self.client = Groq(api_key=api_key)
         self.indexer = MFIndexer()
 
