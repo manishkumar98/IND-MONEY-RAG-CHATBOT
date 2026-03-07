@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://ind-money-rag-chatbot-36vp6kfeeuuesdzeprzetn.streamlit.app";
+const BACKEND_URL = "/api";
 
 const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');

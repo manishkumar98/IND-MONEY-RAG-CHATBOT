@@ -8,17 +8,12 @@ class MFIndexer:
         self.processed_dir = processed_dir
         self.db_path = db_path
         # Using a local, high-quality embedding function
-        # FORCE OpenAI Embeddings to prevent 7GB local model download (essential for Cloud/Vercel)
-        api_key = os.environ.get("OPENAI_API_KEY")
-        if not api_key:
-            # If no key, we use a tiny stub to prevent crashing, but real queries will fail until key is added.
-            print("WARNING: OPENAI_API_KEY not found. Indexing will fail.")
-            self.embed_fn = None 
-        else:
-            self.embed_fn = embedding_functions.OpenAIEmbeddingFunction(
-                api_key=api_key,
-                model_name="text-embedding-3-small"
-            )
+        # Use HuggingFace Free Inference API (Zero disk space for Vercel, Zero cost)
+        hf_token = os.environ.get("HUGGINGFACE_TOKEN") # Optional but recommended for higher limits
+        self.embed_fn = embedding_functions.HuggingFaceInferenceAPIEmbeddingFunction(
+            api_key=hf_token if hf_token else "hf_placeholder", # Works without key for low volume
+            model_name="sentence-transformers/all-MiniLM-L6-v2"
+        )
         
         self.client = chromadb.PersistentClient(path=self.db_path)
         self.collection = self.client.get_or_create_collection(
