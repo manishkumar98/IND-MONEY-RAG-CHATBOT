@@ -1,0 +1,30 @@
+Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Midcap-Fund-34
+Scraped Date: 2026-03-07 19:40:00
+--------------------------------------------------
+Fund Name: SBI Midcap Fund (SBI Magnum Midcap Fund)
+Expense Ratio (as on 28 Feb 2026):
+- Regular Plan: 1.66%
+- Direct Plan: 0.86%
+
+Exit Load:
+- Within 30 days: 0.10%
+- After 30 days: Nil
+
+Fund Manager:
+- Mr. Bhavin Vithlani (since April 2024)
+
+Historical Returns (as of March 2026):
+- 1 Month: -2.43%
+- 3 Months: -2.53%
+- 6 Months: 0.91%
+- 1 Year: 8.21%
+- 3 Years: 16.54%
+- 5 Years: 17.06%
+- Since Inception: 1101.17% (Absolute)
+
+Standard Investment:
+- Minimum Investment: ₹5,000
+- Minimum SIP: ₹500
+- Risk Level: VERY HIGH
+- Scheme Benchmark: Nifty Midcap 150 TRI
+- Additional Benchmark: BSE Sensex TRI

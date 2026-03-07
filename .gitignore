@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+phase3/data/chroma_db/
+.DS_Store
+.venv/
+node_modules/
+.ipynb_checkpoints/
+/phase2/data/processed/
+/phase6/data/eval_reports/*.json

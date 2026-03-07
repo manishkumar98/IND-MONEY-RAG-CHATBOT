@@ -1,0 +1,30 @@
+Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329
+Scraped Date: 2026-03-07 19:40:00
+--------------------------------------------------
+Fund Name: SBI Small Cap Fund
+Expense Ratio (as on 28 Feb 2026):
+- Regular Plan: 1.57%
+- Direct Plan: 0.75%
+
+Exit Load:
+- Within 1 year: 1%
+- After 1 year: Nil
+
+Fund Manager:
+- Mr. R Srinivasan (since Nov 2013)
+
+Historical Returns (as of March 2026):
+- 1 Month: -3.06%
+- 3 Months: -7.33%
+- 6 Months: -9.42%
+- 1 Year: 3.42%
+- 3 Years: 12.76%
+- 5 Years: 15.20%
+- Since Inception: 22.18% (Annualized)
+
+Standard Investment:
+- Minimum Investment: ₹100
+- Minimum SIP: ₹500
+- Risk Level: VERY HIGH Risk
+- Scheme Benchmark: BSE 250 SMALLCAP INDEX TRI
+- Additional Benchmark: BSE Sensex TRI

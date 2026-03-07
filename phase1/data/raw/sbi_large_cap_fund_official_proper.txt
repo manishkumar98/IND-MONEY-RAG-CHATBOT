@@ -1,0 +1,31 @@
+Source URL: https://www.sbimf.com/sbimf-scheme-details/sbi-large-cap-fund-(formerly-known-as-sbi-bluechip-fund)-43
+Scraped Date: 2026-03-07 19:40:00
+--------------------------------------------------
+Fund Name: SBI Large Cap Fund (Formerly SBI Bluechip Fund)
+Expense Ratio (as on 28 Feb 2026):
+- Regular Plan: 1.47%
+- Direct Plan: 0.79%
+
+Exit Load:
+- 0 to 30 days: 0.25%
+- 30 to 90 days: 0.10%
+- After 90 days: Nil
+
+Fund Manager:
+- Mr. Saurabh Pant (since 2007)
+
+Historical Returns (as of March 2026):
+- 1 Month: -3.41%
+- 3 Months: -4.32%
+- 6 Months: 0.23%
+- 1 Year: 11.69%
+- 3 Years: 14.26%
+- 5 Years: 12.38%
+- Since Inception: 510.71% (Absolute)
+
+Standard Investment:
+- Minimum Investment: ₹5,000
+- Minimum SIP: ₹500
+- Risk Level: VERY HIGH
+- Scheme Benchmark: BSE 100 TRI
+- Additional Benchmark: BSE Sensex TRI

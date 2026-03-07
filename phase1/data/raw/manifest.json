@@ -1,0 +1,52 @@
+[
+    {
+        "fund": "SBI Large Cap Fund (Official)",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/sbi-large-cap-fund-(formerly-known-as-sbi-bluechip-fund)-43",
+        "success": true
+    },
+    {
+        "fund": "SBI Flexicap Fund (Official)",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/SBI-Flexicap-Fund-39",
+        "success": true
+    },
+    {
+        "fund": "SBI ELSS Tax Saver Fund (Official)",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/SBI-ELSS-Tax-Saver-Fund-(formerly-known-as-SBI-Long-Term-Equity-Fund)-3",
+        "success": true
+    },
+    {
+        "fund": "SBI Small Cap Fund (Official)",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329",
+        "success": true
+    },
+    {
+        "fund": "SBI Midcap Fund (Official)",
+        "url": "https://www.sbimf.com/sbimf-scheme-details/SBI-Midcap-Fund-34",
+        "success": true
+    },
+    {
+        "fund": "SBI Bluechip Fund (INDMoney)",
+        "url": "https://www.indmoney.com/mutual-funds/sbi-bluechip-fund-direct-growth-3046",
+        "success": true
+    },
+    {
+        "fund": "SBI Flexicap Fund (INDMoney)",
+        "url": "https://www.indmoney.com/mutual-funds/sbi-flexicap-fund-direct-growth-3249",
+        "success": true
+    },
+    {
+        "fund": "SBI Long Term Equity Fund (INDMoney)",
+        "url": "https://www.indmoney.com/mutual-funds/sbi-long-term-equity-fund-direct-growth-2754",
+        "success": true
+    },
+    {
+        "fund": "SBI Small Cap Fund (INDMoney)",
+        "url": "https://www.indmoney.com/mutual-funds/sbi-small-cap-fund-direct-plan-growth-3603",
+        "success": true
+    },
+    {
+        "fund": "SBI Midcap Fund (INDMoney)",
+        "url": "https://www.indmoney.com/mutual-funds/sbi-midcap-fund-direct-growth-3129",
+        "success": true
+    }
+]

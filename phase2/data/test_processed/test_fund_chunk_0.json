@@ -1,0 +1,10 @@
+{
+    "chunk_id": "Test Fund_0",
+    "fund_name": "Test Fund",
+    "source_url": "https://test.com",
+    "content": "Fund Data Info here.",
+    "metadata": {
+        "index": 0,
+        "length": 20
+    }
+}
