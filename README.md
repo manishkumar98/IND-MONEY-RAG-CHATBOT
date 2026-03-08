@@ -2,6 +2,8 @@
 
 A facts-only retrieval-augmented generation (RAG) assistant for SBI Mutual Fund schemes, designed to simulate a knowledge tool for the **INDmoney** platform.
 
+**📺 [Watch the Demo Video Here](https://drive.google.com/file/d/1zmhpOO4FxMUBJivL-ChaPunFrIGmL-nt/view?usp=sharing)**
+
 > [!IMPORTANT]
 > This project is for demo purposes only and does not constitute financial advice.
 
