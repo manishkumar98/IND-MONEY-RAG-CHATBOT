@@ -10,54 +10,78 @@ import os
 # 1. Setup FastAPI inside Streamlit to provide the API
 api = FastAPI()
 
-# Enable CORS for the Vercel Frontend
+# Enable CORS
 api.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # In production, set this to your vercel.app URL
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-engine = RAGEngine()
+@st.cache_resource
+def load_rag_engine():
+    try:
+        return RAGEngine()
+    except Exception as e:
+        st.error(f"Failed to initialize RAG Engine: {e}")
+        return None
+
+# Global access for FastAPI
+engine = load_rag_engine()
 
 class QueryRequest(BaseModel):
     query: str
 
+@api.get("/health")
+def health():
+    return {"status": "ok", "engine_ready": engine is not None}
+
 @api.post("/ask")
 async def ask_question(request: QueryRequest):
+    if engine is None:
+        raise HTTPException(status_code=500, detail="RAG Engine not initialized")
     try:
         answer = engine.generate_response(request.query)
         return {"answer": answer}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-# 2. Setup the Streamlit UI (This will be the Backend Host)
+# 2. Setup the Streamlit UI
 st.set_page_config(page_title="SBI MF Backend Host")
 st.title("RAG Backend Server ⚙️")
+
+if engine:
+    st.success("RAG Engine Loaded & Ready ✅")
+else:
+    st.error("RAG Engine Failed to Load ❌. Check your GROQ_API_KEY in Secrets.")
+
 st.info("This is the hosted backend providing RAG intelligence to the Vercel Frontend.")
 
-st.markdown("""
-### Server Status: `RUNNING` ✅
-1. Load data from phase1/data/raw
-2. Embed & Index (ChromaDB)
-3. Groq LLM integration
-4. FastAPI endpoint /ask is active
-""")
+with st.expander("Server Deployment Status"):
+    st.markdown("""
+    1. **Data**: Loaded from phase1/data/raw
+    2. **Index**: ChromaDB (Default ONNX Embeddings)
+    3. **LLM**: Groq (Llama-3.1-8b)
+    4. **Endpoint**: `/ask` (POST)
+    """)
 
-st.write("Current Backend Metadata:")
+st.write("Live Metadata:")
 st.json({
     "engine": "llama-3.1-8b-instant",
-    "indexer": "ChromaDB",
-    "port": 8000
+    "indexer": "ChromaDB (ONNX)",
+    "api_port": 8000,
+    "status": "RUNNING" if engine else "ERROR"
 })
 
-# 3. Use an internal thread to run the API without blocking Streamlit's UI loop
+# 3. Use an internal thread to run the API
 def run_api():
-    uvicorn.run(api, host="0.0.0.0", port=8000, log_level="info")
+    try:
+        uvicorn.run(api, host="0.0.0.0", port=8000, log_level="info")
+    except Exception as e:
+        print(f"FastAPI Error: {e}")
 
-# Use a singleton pattern or session state to ensure the API only starts once
 if 'api_started' not in st.session_state:
     threading.Thread(target=run_api, daemon=True).start()
     st.session_state.api_started = True
 
-st.success("API Server started on port 8000. You can now point your Vercel frontend to this app's URL.")
+st.success("API Server listening on port 8000.")
