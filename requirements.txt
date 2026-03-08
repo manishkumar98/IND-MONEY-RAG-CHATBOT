@@ -5,3 +5,7 @@ chromadb>=0.6.3
 groq
 python-dotenv
 requests
+streamlit
+onnxruntime
+pillow
+python-multipart
