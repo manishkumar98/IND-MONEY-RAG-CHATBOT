@@ -10,10 +10,7 @@ class MFIndexer:
         # Using a local, high-quality embedding function
         # Use HuggingFace Free Inference API (Zero disk space for Vercel, Zero cost)
         hf_token = os.environ.get("HUGGINGFACE_TOKEN") # Optional but recommended for higher limits
-        self.embed_fn = embedding_functions.HuggingFaceInferenceAPIEmbeddingFunction(
-            api_key=hf_token if hf_token else "hf_placeholder", # Works without key for low volume
-            model_name="sentence-transformers/all-MiniLM-L6-v2"
-        )
+        self.embed_fn = embedding_functions.DefaultEmbeddingFunction()
         
         self.client = chromadb.PersistentClient(path=self.db_path)
         self.collection = self.client.get_or_create_collection(
