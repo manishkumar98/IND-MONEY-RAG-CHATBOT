@@ -2,19 +2,11 @@
     "version": 2,
     "builds": [
         {
-            "src": "src/api/api.py",
-            "use": "@vercel/python"
-        },
-        {
             "src": "frontend/**",
             "use": "@vercel/static"
         }
     ],
     "rewrites": [
-        {
-            "source": "/api/(.*)",
-            "destination": "src/api/api.py"
-        },
         {
             "source": "/",
             "destination": "frontend/index.html"

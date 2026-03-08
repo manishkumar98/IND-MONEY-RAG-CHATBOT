@@ -1,4 +1,4 @@
-const BACKEND_URL = "/api";
+const BACKEND_URL = "https://sbi-mf-backend.onrender.com"; // TODO: Replace this with your actual Render URL when deployed
 
 const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');
