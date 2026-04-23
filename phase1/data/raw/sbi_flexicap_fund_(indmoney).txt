@@ -1,5 +1,5 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-flexicap-fund-direct-growth-3249
-Scraped Date: 2026-03-06 01:16:51
+Scraped Date: 2026-04-23 11:59:17
 --------------------------------------------------
 INDmoney
 
@@ -54,14 +54,14 @@ Flexi Cap
 
 Get the latest NAV of SBI Flexicap Fund. View historical returns compared to its benchmark and category average. Know which stocks and sectors the fund is investing in. Get an estimate of returns from the SIP and lump sum returns calculator. View detailed holding analysis and peer comparison. Get INDmoney ranking of the fund.
 
-₹119.47
+₹120.98
 
-▼-2%
+▼-0.3%
 1D
 
-NAV as on 04 Mar 2026
+NAV as on 22 Apr 2026
 
-15.07%
+15.01%
 /per year
 
 Since Inception
@@ -73,29 +73,22 @@ Absolute Gain%
 ▲
 ▼
 
-This fund ​₹119.5 +534.79%
-Nifty 500 ​23166.8 +384.03%
-04-03-2026​NAV ₹119.47​​This fund 534.8%​Nifty 500 384.03%
-
+This fund ​₹121.0 +542.8%
+Nifty 500 ​22991.5 +380.37%
+22-04-2026​NAV ₹120.98​​This fund 542.83%​Nifty 500 380.37%
 1M
-
 3M
-
 6M
-
 1Y
-
 3Y
-
 5Y
-
 MAX
 
-6254 people have invested ₹ 4.1Cr in SBI Flexicap Fund in the last three months
+5640 people have invested ₹ 3.7Cr in SBI Flexicap Fund in the last three months
 
 SBI Flexicap Fund Performance vs. Nifty 500
 
-Fund returns vs Benchmark returns vs Category Average returns as on (04-Mar-26)
+Fund returns vs Benchmark returns vs Category Average returns as on (22-Apr-26)
 
 The fund has underperformed the benchmark (Nifty 500) over the last 1Y, 3Y, 5Y time periods.
 
@@ -116,103 +109,103 @@ Period
 
 This Fund
 	
--4.03%
+6.84%
 	
--5.09%
+-1.47%
 	
--1.07%
+-3.61%
 	
-11.22%
+3.79%
 	
-13.53%
-	
-11.42%
-
-
-Nifty 500
-	
--1.56%
-	
--2.42%
-	
-1.52%
-	
-16.31%
-	
-16.18%
+13.45%
 	
 12.79%
 
 
+Nifty 500
+	
+7.8%
+	
+-0.07%
+	
+-3.23%
+	
+4.1%
+	
+15.69%
+	
+13.64%
+
+
 Flexi Cap Avg
 	
--4.4%
+7.94%
 	
--5.63%
+0.54%
 	
--3.11%
+-3.53%
 	
-11.95%
+4.41%
 	
-15.88%
+16.92%
 	
-13.12%
+14.64%
 
 
 Best in Flexi Cap
 	
-2.12%
+11.57%
 	
-0.24%
+9.81%
 	
-4.05%
+2.71%
 	
-22.26%
+14.5%
 	
-23.64%
+24.94%
 	
-20.37%
+21.85%
 
 
 Worst in Flexi Cap
 	
--5.88%
+3.84%
 	
--10.18%
+-2.5%
 	
--10.68%
+-9.23%
 	
-3.79%
+-2.58%
 	
-3.88%
+4.19%
 	
-7.66%
+8.36%
 
 
 Category Rank
 	
-18/22
+19/22
 	
 19/22
 	
-19/21
+20/22
 	
-17/20
+15/21
 	
-11/18
+12/18
 	
 --
 SBI Flexicap Fund Ranking and Peer Comparison
 
 Ranked based on performance, risk management and cost efficiency
 
-19
-/22
-30% Performance
-41% Risk Management
-65% Cost
+21
+/23
+33% Performance
+37% Risk Management
+66% Cost
 
-Ranked 19 out of 22 mutual funds in the flexi cap category as per INDmoney.
+Ranked 21 out of 23 mutual funds in the flexi cap category as per INDmoney.
 
 Fund Name
 	
@@ -239,99 +232,99 @@ Expense Ratio
 
 SBI Flexicap Fund
 	
-19/22
+21/23
 	
-23,148Cr
+20,626Cr
 	
-0.83%
+0.86%
 	
-11.22%
+3.79%
 	
-13.53%
+13.45%
 	
--0.62
+-1.52
 	
-0.85
+0.89
 	
-0.77
+0.35
 	
-1.21
+0.46
 	
--0.76
+-0.75
 
 
 HDFC Flexi Cap Fund
 	
-1/22
+1/23
 	
-97,452Cr
+91,335Cr
 	
-0.67%
+0.68%
 	
-16.16%
+4.38%
 	
-21.62%
+21.52%
 	
-6.94
+5.27
 	
-0.77
+0.84
 	
-1.53
+0.89
 	
-3.19
+1.32
 	
-1.41
-
-
-Edelweiss Flexi Cap Fund
-	
-2/22
-	
-3,133Cr
-	
-0.43%
-	
-16.69%
-	
-19.78%
-	
-3.12
-	
-1.00
-	
-1.09
-	
-1.82
-	
-1.22
+1.27
 
 
 Parag Parikh Flexi Cap Fund
 	
-3/22
+2/23
 	
-1,33,970Cr
+1,28,966Cr
 	
-0.63%
+0.62%
 	
-10.11%
+5.01%
 	
-20.12%
+18.74%
 	
-6.52
+5.77
+	
+0.61
+	
+1.05
+	
+1.70
+	
+0.61
+
+
+Mirae Asset Flexi Cap Fund
+	
+3/23
+	
+3,448Cr
+	
+0.51%
+	
+9.56%
+	
+18.12%
+	
+1.62
+	
+0.94
 	
 0.60
 	
-1.56
+0.85
 	
-3.09
-	
-0.47
+0.61
 See all
 Beats FD returns for both 3Y & 5Y
 Has not generated consistent returns
-Underperforms benchmarks during bull run
-5Y returns in the bottom 25% of the category
+Does not beat the benchmark consistently
+Higher probablity of downside risk
 SBI Flexicap Fund Returns Calculator
 
 Calculate SIP and lumpsum returns based on historical performance
@@ -349,131 +342,124 @@ Total Investment
 
 Profit
 
-₹ 11.2K
+₹ 3.8K
 
 Total Corpus
 
-₹ 1.1 L
+₹ 1.0 L
 
 Absolute Return
 ▲
 ▼
-11.2%
+3.8%
 ₹ 1.03L​₹ 1.03L
-₹ 1.12L​₹ 1.12L
-₹ 1.11L​₹ 1.11L
+₹ 1.04L​₹ 1.04L
+₹ 1.04L​₹ 1.04L
 Savings a/c
 Category Avg
 This Fund
-
 1M
-
 3M
-
 6M
-
 1Y
-
 3Y
-
 5Y
-
 SBI Flexicap Fund Asset Allocation
 
-See fund asset allocation details as on (14-Feb-26)
+See fund asset allocation details as on (13-Apr-26)
 
 Fund Distribution
 
-as on (14-Feb-26)
+as on (13-Apr-26)
 
 Equity
 
-Equity 95.2%
+Equity 94.9%
 
-Debt & Cash 4.8%
+Debt & Cash 5.1%
 
 Large cap
-66%
+66.9%
 Small cap
-13.8%
+13.7%
 Mid cap
-12.8%
+13.2%
 Asset Allocation Changes
 
-All changes are between Feb'26 and Nov'25
+All changes are between Apr'26 and Jan'26
 
-Large Cap allocation has gone down from 67.6% to 66%
-Small Cap allocation has gone up from 13.2% to 13.8%
-Mid Cap allocation has gone up from 12% to 12.8%
+Mid Cap allocation has gone down from 13.4% to 13.2%
+Large Cap allocation has gone up from 65.9% to 66.9%
+Small Cap allocation has gone up from 12.5% to 13.7%
+Cash allocation has gone down from 6.2% to 4.9%
 Debt allocation has gone up from 0.1% to 0.1%
-Cash allocation has gone up from 4% to 4.7%
 SBI Flexicap Fund Sector Allocation
 
-See fund sector allocation details as on (14-Feb-26)
+See fund sector allocation details as on (13-Apr-26)
 
 Sector Allocation
 
-Equity 95.2%
+Equity 94.9%
 
-Debt & Cash 4.8%
+Debt & Cash 5.1%
 
 Financial Services
-40.1%
-Consumer Cyclical
-13.1%
-Industrial
-12%
+38.7%
 Basic Materials
-11.8%
+13.8%
+Consumer Cyclical
+13.3%
+Industrial
+12.6%
 Tech
-5.9%
-Energy
-5.4%
+6.3%
 Communication
-5.3%
-Consumer Defensive
-2.3%
+5.5%
+Energy
+5%
 Health
-2.2%
-Utilities
 1.9%
+Utilities
+1.8%
+Consumer Defensive
+1.1%
 Sector Changes
 
-All changes are between Feb'26 and Nov'25
+All changes are between Apr'26 and Jan'26
 
-Top 3 Sectors in January were Financial Services, Consumer Cyclical & Basic Materials
+Top 3 Sectors in March were Financial Services, Basic Materials & Consumer Cyclical
 
-Jan'26
+Mar'26
 
 Financial Services
 
-38%
+40%
+
+Basic Materials
+
+15%
 
 Consumer Cyclical
 
-14%
+12%
+
+Feb'26
+
+Financial Services
+
+42%
 
 Basic Materials
 
 13%
 
-Dec'25
-
-Financial Services
-
-37%
-
 Consumer Cyclical
-
-15%
-
-Basic Materials
 
 13%
 
 SBI Flexicap Fund Holdings Details
 
-as on (28-Feb-26)
+as on (31-Mar-26)
 
 Equity
 
@@ -487,9 +473,9 @@ Weight%
 1M Change
 
 
-Infosys Ltd
+Axis Bank Ltd
 	
-6.38%
+5.36%
 	
 	
 0%
@@ -497,57 +483,57 @@ Infosys Ltd
 
 HDFC Bank Ltd
 	
-6%
+4.52%
 	
 	
--20.4%
+-14.7%
+
+
+State Bank of India
+	
+4.31%
+	
+	
+100%
 
 
 ICICI Bank Ltd
 	
-5.82%
+4.04%
 	
 	
-0%
-
-
-Axis Bank Ltd
-	
-5.14%
-	
-	
-67.7%
+-30.5%
 
 
 Larsen & Toubro Ltd
 	
-4.41%
+3.77%
 	
 	
-0%
+-14.5%
 See all
 Portfolio Changes
 
-All changes are between Nov'25 and Jan'26
+All changes are between Jan'26 and Mar'26
 
 Top Stocks bought last month
-Axis Bank Ltd's allocation increased from 2.78% to 5.14%
-Cummins India Ltd's allocation increased from 0.55% to 0.91%
-Pearl Global Industries Ltd's allocation increased from 0.5% to 0.85%
+Multi Commodity Exchange of India Ltd's allocation increased from 0% to 1.68%
+NTPC Ltd's allocation increased from 1.77% to 3.34%
+Sun Pharmaceuticals Industries Ltd's allocation increased from 1% to 2.17%
 Top Stocks sold last month
-HDFC Bank Ltd's allocation decreased from 7.86 % to 6 %
-Larsen & Toubro Ltd's allocation decreased from 4.48 % to 4.41 %
-Maruti Suzuki India Ltd's allocation decreased from 4.25 % to 3.8 %
+Axis Bank Ltd's allocation decreased from 5.65 % to 5.36 %
+HDFC Bank Ltd's allocation decreased from 5.7 % to 4.52 %
+ICICI Bank Ltd's allocation decreased from 5.89 % to 4.04 %
 SBI Flexicap Fund Overview
 
 Get key fund statistics, minimum investment details, AUM, expense ratio, exit load, and tax treatment.
 
 Expense ratio
-0.83%
+0.86%
 Benchmark
 BSE 500 India TR INR
 AUM
-₹23148 Cr
+₹20626 Cr
 Inception Date
 1 January, 2013
 Min Lumpsum/SIP
@@ -565,16 +551,16 @@ About SBI Flexicap Fund
 SBI Flexicap Fund is an equity fund. This fund was started on 1 January, 2013. The fund is managed by Dinesh Balachandran, Anup Upadhyay. The fund could potentially beat inflation in the long-run.
 
 Key Parameters
-SBI Flexicap Fund has ₹23148 Cr worth of assets under management (AUM) as on Feb 2026 and is more than category average.
-The fund has an expense ratio 0.8.
+SBI Flexicap Fund has ₹20626 Cr worth of assets under management (AUM) as on Apr 2026 and is more than category average.
+The fund has an expense ratio 0.9.
 
 Returns
 
-SBI Flexicap Fund has given a CAGR return of 15.07% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 11.22%, 13.53% and 11.42% respectively.
+SBI Flexicap Fund has given a CAGR return of 15.01% since inception. Over the last 1, 3 and 5 years the fund has given a CAGR return of 3.79%, 13.45% and 12.79% respectively.
 
 Holdings
 
-SBI Flexicap Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Consumer Cyclical, Basic Materials, Industrial, Tech, Energy, Communication, Health, Government, Consumer Defensive. Its top holdings are Infosys Ltd, HDFC Bank Ltd, ICICI Bank Ltd, Axis Bank Ltd, Larsen & Toubro Ltd
+SBI Flexicap Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Basic Materials, Consumer Cyclical, Industrial, Energy, Tech, Health, Utilities, Government, Communication, Consumer Defensive. Its top holdings are Axis Bank Ltd, HDFC Bank Ltd, State Bank of India, ICICI Bank Ltd, Larsen & Toubro Ltd
 
 Taxation
 
@@ -605,26 +591,26 @@ Fund Manager of SBI Flexicap Fund, since 1 December 2024
 Learn more about SBI Mutual Fund
 AUM Change
 
-All changes are between Nov'25 and Jan'26
+All changes are between Jan'26 and Mar'26
 
 Parameters
 	
+Mar'26
+	
+Feb'26
+	
 Jan'26
-	
-Dec'25
-	
-Nov'25
 
 
 AUM
 	
+₹ 20.6K Cr
+	
+₹ 23.3K Cr
+	
 ₹ 23.1K Cr
-	
-₹ 23.7K Cr
-	
-₹ 23.6K Cr
-AUM of the fund stands at 23.1K Cr as of Jan'26
-AUM decreased by 537.3 Cr between Jan'26 and Dec'25
+AUM of the fund stands at 20.6K Cr as of Mar'26
+AUM decreased by 2.7K Cr between Mar'26 and Feb'26
 Compare SBI Flexicap Fund
 
 SBI Flexicap Fund
@@ -642,23 +628,23 @@ Select whether you want to invest in SIP or lump sum.
 Enter the amount you wish to invest.
 Set up payments via bank mandate or UPI.
 What is the current NAV of SBI Flexicap Fund?
-The NAV of the fund today is ₹119.47. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
+The NAV of the fund today is ₹120.98. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
 What is the return on the fund?
-SBI Flexicap Fund fund has generated a return of 11.22% in 1 year, 13.53% in 3 years, 11.42% in 5 years.
+SBI Flexicap Fund fund has generated a return of 3.79% in 1 year, 13.45% in 3 years, 12.79% in 5 years.
 Who is the fund manager of SBI Flexicap Fund?
 The fund managers are Dinesh Balachandran, Anup Upadhyay.
 What is the exit load of the fund?
 The exit load is 0.1% if redeemed in 0-30 Days. Exit load is a fee levied for ‘exiting’ the fund earlier than a stipulated period, usually 1 year.
 What is the expense ratio of the fund?
-The expense ratio is 0.83%. The Expense Ratio is a fee charged for managing the fund. This includes commissions, administrative costs etc.
+The expense ratio is 0.86%. The Expense Ratio is a fee charged for managing the fund. This includes commissions, administrative costs etc.
 What is the AUM of the fund?
-The AUM of the fund is ₹23148 Cr. AUM stands for Assets Under Management. It refers to the total assets managed by the fund.
+The AUM of the fund is ₹20626 Cr. AUM stands for Assets Under Management. It refers to the total assets managed by the fund.
 What are the top holdings of SBI Flexicap Fund?
-The top 3 holdings of the fund are Infosys Ltd(6.38%), HDFC Bank Ltd(6%), ICICI Bank Ltd(5.82%)
+The top 3 holdings of the fund are Axis Bank Ltd(5.36%), HDFC Bank Ltd(4.52%), State Bank of India(4.31%)
 
 Mutual Fund execution provided by
 
-INDstocks Private Limited (Formerly known as INDmoney Private Limited) is a SEBI registered Stock Broker and mutual funds distributor. SEBI Registration No. INZ000305337, Trading and Clearing Member of NSE (90267, M70042) and BSE, BSE StarMF (6779), AMFI Registration No: ARN-254564.
+INDstocks Private Limited (Formerly known as INDmoney Private Limited) is a SEBI registered Stock Broker and mutual funds distributor. SEBI Registration No. INZ000305337, Trading and Clearing Member of NSE (90267, M70042), BSE (6779), MCX (57600) and BSE Star MF (6779), AMFI Registration No: ARN-254564.
 
 Disclaimer: Mutual Fund investments are subject to market risks, read all scheme related documents carefully. Past performance is not indicative of future returns. Registration granted by SEBI, membership of BASL and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors.
 
@@ -677,7 +663,6 @@ Mutual Funds
 Futures & Options
 IPO
 ETFs
-Fixed Deposit
 
 COMPANY
 
@@ -721,7 +706,6 @@ Green Energy Stocks
 Semiconductor Stocks
 Small Cap Stocks
 Blue Chip Stocks
-Intraday Stocks
 AI Stocks
 Railway Stocks
 Infrastructure Stocks
@@ -733,6 +717,7 @@ Important Links:  
 SEBI
 NSE
 BSE
+MCX
 
 About INDmoney
 
