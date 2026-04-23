@@ -74,7 +74,9 @@ def evaluate_system():
     }
 
     # Save report
-    report_path = f"phase6/data/eval_reports/report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    report_dir = "phase6/data/eval_reports"
+    os.makedirs(report_dir, exist_ok=True)
+    report_path = f"{report_dir}/report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
     with open(report_path, "w") as f:
         json.dump(report, f, indent=4)
         
