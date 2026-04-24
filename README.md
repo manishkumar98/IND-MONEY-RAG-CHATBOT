@@ -4,6 +4,10 @@ A facts-only retrieval-augmented generation (RAG) assistant for SBI Mutual Fund 
 
 **📺 [Watch the Demo Video Here](https://drive.google.com/file/d/1zmhpOO4FxMUBJivL-ChaPunFrIGmL-nt/view?usp=sharing)**
 
+<p align="center">
+  <img src="assets/demo.gif" alt="SBI MF Assistant Demo" width="100%">
+</p>
+
 > [!IMPORTANT]
 > This project is for demo purposes only and does not constitute financial advice.
 
