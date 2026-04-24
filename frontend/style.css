@@ -107,6 +107,61 @@ header h1 {
     margin-top: 8px;
 }
 
+.fund-pills {
+    display: flex;
+    gap: 12px;
+    margin-top: 16px;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+}
+
+.fund-pills::-webkit-scrollbar {
+    display: none;
+}
+
+.fund-pill {
+    white-space: nowrap;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: transform 0.2s ease, opacity 0.2s;
+}
+
+.fund-pill:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+/* Colors matching the provided image */
+.fund-bluechip {
+    background-color: #fce8e8;
+    color: #b72a2a;
+}
+
+.fund-flexicap {
+    background-color: #fcedf6;
+    color: #a41b71;
+}
+
+.fund-longterm {
+    background-color: #e8f5e9;
+    color: #156637;
+}
+
+.fund-smallcap {
+    background-color: #fdf5df;
+    color: #374151;
+}
+
+.fund-midcap {
+    background-color: #fce8e8;
+    color: #b72a2a;
+}
+
 /* Chat Experience */
 .chat-container {
     flex: 1;
