@@ -1,5 +1,5 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-midcap-fund-direct-growth-3129
-Scraped Date: 2026-04-23 11:59:36
+Scraped Date: 2026-04-27 01:47:52
 --------------------------------------------------
 INDmoney
 
@@ -54,14 +54,14 @@ Mid-Cap
 
 Get the latest NAV of SBI Midcap Fund. View historical returns compared to its benchmark and category average. Know which stocks and sectors the fund is investing in. Get an estimate of returns from the SIP and lump sum returns calculator. View detailed holding analysis and peer comparison. Get INDmoney ranking of the fund.
 
-₹266.68
+₹263.49
 
-▲0.7%
+▼-1%
 1D
 
-NAV as on 22 Apr 2026
+NAV as on 24 Apr 2026
 
-18.52%
+18.4%
 /per year
 
 Since Inception
@@ -73,9 +73,9 @@ Absolute Gain%
 ▲
 ▼
 
-This fund ​₹266.7 +1149.67%
-Nifty Midcap 150 ​22191.1 +721.88%
-22-04-2026​NAV ₹266.68​​This fund 1149.67%​Nifty Midcap 150 721.88%
+This fund ​₹263.5 +1134.75%
+Nifty Midcap 150 ​21875.9 +710.21%
+26-04-2026​NAV ₹263.49​​This fund 1134.72%​Nifty Midcap 150 710.21%
 1M
 3M
 6M
@@ -84,11 +84,11 @@ Nifty Midcap 150 ​22191.1 +721.88%
 5Y
 MAX
 
-10687 people have invested ₹ 5Cr in SBI Midcap Fund in the last three months
+10813 people have invested ₹ 5.1Cr in SBI Midcap Fund in the last three months
 
 SBI Midcap Fund Performance vs. Nifty Midcap 150
 
-Fund returns vs Benchmark returns vs Category Average returns as on (22-Apr-26)
+Fund returns vs Benchmark returns vs Category Average returns as on (24-Apr-26)
 
 The fund has underperformed the benchmark (Nifty Midcap 150) over the last 1Y, 3Y, 5Y time periods.
 
@@ -109,77 +109,77 @@ Period
 
 This Fund
 	
-9.63%
+10.14%
 	
-4.24%
+4.76%
 	
-2.75%
+1.6%
 	
-4.75%
+2.84%
 	
-18.19%
+17.71%
 	
-18.33%
+18.04%
 
 
 Nifty Midcap 150
 	
-9.71%
+7.25%
 	
-3.81%
+4.13%
 	
-1%
+-0.07%
 	
-10.78%
+11.07%
 	
-23.76%
+23.04%
 	
-20.15%
+19.54%
 
 
 Mid-Cap Avg
 	
-9.79%
+9.42%
 	
-4.41%
+4.68%
 	
-0.38%
+-0.73%
 	
-11.11%
+8.87%
 	
-23.29%
+22.59%
 	
-19.43%
+19.02%
 
 
 Best in Mid-Cap
 	
-11.72%
+13.83%
 	
-10.95%
+10.81%
 	
-8.36%
+6.67%
 	
-26.35%
+22.75%
 	
-28.82%
+28.32%
 	
-25.74%
+25%
 
 
 Worst in Mid-Cap
 	
-7.76%
+6.59%
 	
--0.43%
+-0.47%
 	
--10.67%
+-11.96%
 	
-0.12%
+-2.25%
 	
-16.17%
+15.61%
 	
-14.64%
+14.13%
 
 
 Category Rank
@@ -238,9 +238,9 @@ SBI Midcap Fund
 	
 0.86%
 	
-4.75%
+2.84%
 	
-18.19%
+17.71%
 	
 -3.36
 	
@@ -261,9 +261,9 @@ HDFC Mid Cap Fund
 	
 0.77%
 	
-13.35%
+10.56%
 	
-25.9%
+25.03%
 	
 3.25
 	
@@ -284,9 +284,9 @@ Edelweiss Mid Cap Fund
 	
 0.49%
 	
-12.69%
+10.95%
 	
-28.08%
+27.38%
 	
 3.34
 	
@@ -307,9 +307,9 @@ Nippon India Growth Mid Cap Fund Mid Cap
 	
 0.78%
 	
-14.65%
+12.09%
 	
-28.09%
+27.23%
 	
 2.88
 	
@@ -343,7 +343,7 @@ Total Investment
 
 Profit
 
-₹ 4.7K
+₹ 2.8K
 
 Total Corpus
 
@@ -352,10 +352,10 @@ Total Corpus
 Absolute Return
 ▲
 ▼
-4.7%
+2.8%
 ₹ 1.03L​₹ 1.03L
-₹ 1.11L​₹ 1.11L
-₹ 1.05L​₹ 1.05L
+₹ 1.09L​₹ 1.09L
+₹ 1.03L​₹ 1.03L
 Savings a/c
 Category Avg
 This Fund
@@ -389,9 +389,9 @@ Asset Allocation Changes
 
 All changes are between Apr'26 and Jan'26
 
-Large Cap allocation has gone up from 5.1% to 6%
 Small Cap allocation has gone up from 15.8% to 17%
 Mid Cap allocation has gone down from 72.9% to 70.9%
+Large Cap allocation has gone up from 5.1% to 6%
 Cash allocation has gone down from 6.1% to 5.9%
 Debt allocation has gone up from 0.1% to 0.1%
 SBI Midcap Fund Sector Allocation
@@ -640,9 +640,9 @@ Select whether you want to invest in SIP or lump sum.
 Enter the amount you wish to invest.
 Set up payments via bank mandate or UPI.
 What is the current NAV of SBI Midcap Fund?
-The NAV of the fund today is ₹266.68. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
+The NAV of the fund today is ₹263.49. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
 What is the return on the fund?
-SBI Midcap Fund fund has generated a return of 4.75% in 1 year, 18.19% in 3 years, 18.33% in 5 years.
+SBI Midcap Fund fund has generated a return of 2.84% in 1 year, 17.71% in 3 years, 18.04% in 5 years.
 Who is the fund manager of SBI Midcap Fund?
 The fund managers are Bhavin Vithlani.
 What is the exit load of the fund?
@@ -695,35 +695,95 @@ US Stocks
 Mutual Funds
 Calculators
 Indices
+POPULAR STOCKS
 Tata Motors
 Reliance Industries
+HDFC Bank
 SBI
 TCS
-HDFC Bank
-ITC
-Wipro
-Bajaj Finance
+ICICI Bank
 Infosys
+Bajaj Finance
 Adani Power
 IRCTC
+ITC
 LIC
+Wipro
 Coal India
-ICICI Bank
 Asian Paints
-Defence Stocks
-Penny Stocks
-Stocks to Buy Today
-Nifty 50 Stocks
-Green Energy Stocks
-Semiconductor Stocks
-Small Cap Stocks
-Blue Chip Stocks
+SECTORS
+Banking
+IT
+Pharma
+Auto
+FMCG
+Defence
+Power
+Infrastructure
+Real Estate
+PSU
+Railway
+Capital Goods
+Finance
+Oil & Gas
+Healthcare
+THEMES
 AI Stocks
-Railway Stocks
-Infrastructure Stocks
-Dividend Stocks
 EV Stocks
+Green Energy
+Semiconductor
+Solar
+Drone
+Green Hydrogen
+Cybersecurity
+GROUPS
+Tata Group
+Adani Group
+Reliance Group
+Bajaj Group
+Birla Group
+HDFC Group
+Mahindra Group
+L&T Group
+Godrej Group
+ICICI Group
+Jindal Group
+Murugappa Group
+SCREENS
+Large Cap Stocks
+Mid Cap Stocks
+Small Cap Stocks
+Penny Stocks
+Dividend Stocks
+High Return Stocks
 Multibagger Stocks
+View all Screens
+Stock Screener
+SHARE MARKET TODAY
+Share Market Today
+Top Gainers
+Top Losers
+Most Active
+52-Week High
+52-Week Low
+Upper Circuit
+Lower Circuit
+Trending Stocks
+Stocks to Buy
+Intraday Stocks
+INDstocks Private Limited (formerly INDmoney Private Limited) - SEBI registered stock broker & depository participant. Member of NSE, BSE & MCX.
+SEBI Stock Broker
+INZ000305337
+NSE
+90267 · M70042
+BSE
+6779
+MCX
+57600
+Depository Participant
+IN-DP-690-2022
+CDSL DP ID
+12095500
 
 Important Links:  
 SEBI

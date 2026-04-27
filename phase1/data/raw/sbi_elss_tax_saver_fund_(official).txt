@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-ELSS-Tax-Saver-Fund-(formerly-known-as-SBI-Long-Term-Equity-Fund)-3
-Scraped Date: 2026-04-23 11:58:36
+Scraped Date: 2026-04-27 01:46:55
 --------------------------------------------------
 Join Us
 For distributor
@@ -45,10 +45,30 @@ Invest
 Historical NAV
 SBI ELSS Tax Saver Fund (formerly known as SBI Long Term Equity Fund) -Regular Plan - Growth
 1 Year
-NAV as on Apr 22, 2026
+NAV as on Apr 24, 2026
 
-₹ 433.6579 (-0.37% one day change)
+₹ 426.2715 (-1.17% one day change)
 
+Values
+Apr 2025
+May 2025
+Jun 2025
+Jul 2025
+Aug 2025
+Sep 2025
+Oct 2025
+Nov 2025
+Dec 2025
+Jan 2026
+Feb 2026
+Mar 2026
+Apr 2026
+380
+400
+420
+440
+460
+480
 Past Performance may or may not be sustained in future
 Investment Criteria
 Min Lumpsum
@@ -183,6 +203,8 @@ Crescenzo, C-38 & 39, G Block, Bandra-Kurla Complex, Mumbai, Maharashtra, India 
 India: 1800 209 3333 / 1800 425 5425 Outside India: +91-22-62511600 / +91-80-25512131
 customer.delight@sbimf.com
 SMS 'SBIMF' to 7065611100
+Verified Outbound-Only Numbers – 1600313502/1600308125 – Authorized for service & transactional calls from SBI Mutual Fund.
+Please note: These numbers do not accept incoming calls. To reach us, please use the numbers mentioned in the ‘Contact Us’ section above.
 CIN: U65990MH1992PLC065289
 Mutual Fund Investments are subject to market risks, read all scheme related documents carefully. © Copyright 2024 SBI MUTUAL FUND
 
