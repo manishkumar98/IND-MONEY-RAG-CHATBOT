@@ -1,11 +1,11 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-bluechip-fund-direct-growth-3046
-Scraped Date: 2026-05-11 02:03:45
+Scraped Date: 2026-05-18 02:11:43
 --------------------------------------------------
 www.indmoney.com
 Performing security verification
 
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Ray ID: 9f9d9bc639def35f
+Ray ID: 9fd7550b8ca0870a
 Performance and Security by Cloudflare
 Privacy

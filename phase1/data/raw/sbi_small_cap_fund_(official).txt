@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329
-Scraped Date: 2026-05-11 02:03:26
+Scraped Date: 2026-05-18 02:11:23
 --------------------------------------------------
 Join Us
 For distributor
@@ -22,10 +22,10 @@ EQUITY
 Open Ended
 VERY HIGH Risk
 Returns for Regular-Growth
-17.62%
+18.46%
 Since Inception
 Returns for Direct growth
-21.47%
+22.54%
 Since Inception
 AUM as on 30 Apr 2026
 ₹37150.56Cr
@@ -44,9 +44,9 @@ Invest
 Historical NAV
 SBI Small Cap Fund - Regular Plan - Growth
 1 Year
-NAV as on May 08, 2026
+NAV as on May 15, 2026
 
-₹ 170.9171 (-0.30% one day change)
+₹ 165.1265 (+0.16% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
